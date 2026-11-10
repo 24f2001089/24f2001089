@@ -48,8 +48,6 @@ Most of my work focuses on building robust web applications and integrating mach
 - **[Portfolio v3](https://portfolio-v3-ten-gray.vercel.app/)**: Personal portfolio showcasing my development journey, projects, and skills. Built with modern web technologies and a focus on sleek user experience.
 - **[ProjectOS](https://github.com/Techy-prashant/Phase-0-Learning-Phase)**: A foundational learning environment focusing on core concepts like C, C++, and System Design.
 
-### GitHub Stats
+### Primary GitHub Account
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=techy-prashant&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=18181b&hide_border=true&title_color=ffffff&text_color=a1a1aa" alt="techy-prashant" />
-</p>
+- **Techy-prashant:** ****[click me](https://github.com/Techy-prashant)****
